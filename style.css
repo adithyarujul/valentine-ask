@@ -27,7 +27,7 @@ body {
 }
 
 #envelope{
-    width: 225px;
+    width: 200px;
     animation: pulse 1.5s infinite;
     cursor: pointer;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .letter-window{
-    width: 100vw;
+    width: 90vw;
     max-width: 800px;
     aspect-ratio: 3/2;
     padding: 20px 20px 0 20px;
